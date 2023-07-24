@@ -1,5 +1,5 @@
 # LNDb_detection
-LNDb preprocessing and tumor detection  
+Objective: LNDb preprocessing and tumor detection  
   
 LNDb has different numbers of segmentations by multiple radiologists for each CT lung scan.  
 One can choose either voting, union, or intersection to conclude what the ground truth looks like.  
